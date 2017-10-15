@@ -1,0 +1,12 @@
+E:\Wassy\Wassy.DAL\bin\Release\Wassy.DAL.dll.config
+E:\Wassy\Wassy.DAL\bin\Release\Wassy.DAL.dll
+E:\Wassy\Wassy.DAL\bin\Release\Wassy.DAL.pdb
+E:\Wassy\Wassy.DAL\bin\Release\EntityFramework.dll
+E:\Wassy\Wassy.DAL\bin\Release\EntityFramework.SqlServer.dll
+E:\Wassy\Wassy.DAL\bin\Release\EntityFramework.xml
+E:\Wassy\Wassy.DAL\bin\Release\EntityFramework.SqlServer.xml
+E:\Wassy\Wassy.DAL\obj\Release\Wassy.DAL.csprojResolveAssemblyReference.cache
+E:\Wassy\Wassy.DAL\obj\Release\Wassy.DAL.Migrations.addTables.resources
+E:\Wassy\Wassy.DAL\obj\Release\Wassy.DAL.csproj.GenerateResource.Cache
+E:\Wassy\Wassy.DAL\obj\Release\Wassy.DAL.dll
+E:\Wassy\Wassy.DAL\obj\Release\Wassy.DAL.pdb

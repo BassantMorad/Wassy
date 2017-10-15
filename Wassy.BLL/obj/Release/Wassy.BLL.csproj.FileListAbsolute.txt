@@ -1,0 +1,12 @@
+E:\Wassy\Wassy.BLL\bin\Release\Wassy.BLL.dll.config
+E:\Wassy\Wassy.BLL\bin\Release\Wassy.BLL.dll
+E:\Wassy\Wassy.BLL\bin\Release\Wassy.BLL.pdb
+E:\Wassy\Wassy.BLL\bin\Release\EntityFramework.dll
+E:\Wassy\Wassy.BLL\bin\Release\EntityFramework.SqlServer.dll
+E:\Wassy\Wassy.BLL\bin\Release\Wassy.DAL.dll
+E:\Wassy\Wassy.BLL\bin\Release\Wassy.DAL.pdb
+E:\Wassy\Wassy.BLL\bin\Release\EntityFramework.xml
+E:\Wassy\Wassy.BLL\bin\Release\EntityFramework.SqlServer.xml
+E:\Wassy\Wassy.BLL\obj\Release\Wassy.BLL.csprojResolveAssemblyReference.cache
+E:\Wassy\Wassy.BLL\obj\Release\Wassy.BLL.dll
+E:\Wassy\Wassy.BLL\obj\Release\Wassy.BLL.pdb
